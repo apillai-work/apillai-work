@@ -8,7 +8,7 @@ when i'm not working, i really enjoy reading philosophy, curating endless playli
 - 🔭 i’m currently working on: redesigning healthcare services for learning disabled and autistic people
 - 🌱 i’m currently learning: p5.js for generative art
 - 👯 i’m looking to collaborate on: exploring techno-orientalism in science fiction films
-- 📫 reach me via email: a.pillai@arts.ac.uk 
+- 📫 reach me via email: aarav.pillai@arts.ac.uk 
 - 💬 talk to me about: user research or creative ai
 - ⚡ fun fact about me: i love collecting cat postcards
 
