@@ -1,6 +1,6 @@
 ### hi there 👋 
 
-i'm a research and teaching assistant at ual creative computing institute. my practice revolves around examining the intricate ways in which technology influences the world we live in, and identifying strategies to utilise it for empowering marginalised populations - whilst critically interrogating any hegemonic power structures that may exist in this realm. i also faciliate lab sessions for code walkthroughs for the msc data science and ai for the creative industries program.
+i'm an associate lecturer at ual creative computing institute. my practice revolves around examining the intricate ways in which technology influences the world we live in, and identifying strategies to utilise it for empowering marginalised populations - whilst critically interrogating any hegemonic power structures that may exist in this realm. i also faciliate lab sessions for code walkthroughs for the msc data science and ai for the creative industries program.
 
 when i'm not working, i really enjoy reading philosophy, curating endless playlists, taking photographs of pretty places / people, and writing poetry. get in touch if you'd like to discuss a project, or just chat about anything! 
 
